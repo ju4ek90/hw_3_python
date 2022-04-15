@@ -1,0 +1,2 @@
+class AccessTokenWasNotCreated(Exception):
+    pass
